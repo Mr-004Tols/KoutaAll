@@ -2,7 +2,14 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
-print ("\033[1;32matau silahkan Hubungi wa 081228244242")
+print ("\033[1;32mjika tidak tahu pass dan user silahkan Hubungi wa 081228244243")
+
+_                _
+| |    ___   __ _(_)_ __
+| |   / _ \ / _` | | '_ \
+| |__| (_) | (_| | | | | |
+|_____\___/ \__, |_|_| |_|
+            |___/
 
 username = 'Mr_004'      
 
