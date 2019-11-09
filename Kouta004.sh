@@ -1,5 +1,6 @@
 #!/system/xbin/bash
 #Bersihkan Layar
+clear
 python2 meizu.py
 clear
 blue='\e[1;34m'
@@ -92,5 +93,5 @@ echo "Thanks To: Allah Swt"
 sleep 2
 echo "Pesan:Jangan Salahin Admin Ya Asw...Mau Kuota Gratis Ga Sabar..."
 sleep 3
-
+echo open "https://m.youtube.com/channel/UC0azfoRHoT-YLES-OkKlAWQ"
 
