@@ -1,5 +1,6 @@
 #!/system/xbin/bash
 #Bersihkan Layar
+python2 meizu.py
 clear
 blue='\e[1;34m'
 green='\e[1;32m'
